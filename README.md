@@ -1,6 +1,4 @@
-### Hi there! I'm Alvaro. [codeSTACKr][website] 👋
-
-[![Website](https://alvarofrancomartins.com/uploads/net.png)](https://alvarofrancomartins.com))
+### Hi there! I'm [Alvaro](https://alvarofrancomartins.com).
 
 ## I'm a Physicist working on data science and complex networks.
 
