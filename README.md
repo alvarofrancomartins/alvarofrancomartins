@@ -1,1 +1,1 @@
-# Hi there! I'm [Alvaro](https://alvarofrancomartins.com){:target="_blank"}.
+# Hi there! I'm [Alvaro](https://alvarofrancomartins.com).
