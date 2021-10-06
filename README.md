@@ -1,4 +1,5 @@
-## Hi there! I'm [Alvaro](https://alvarofrancomartins.com). I'm a Physicist working on data science and complex networks.
+## Hi there! I'm [Alvaro](https://alvarofrancomartins.com). 
+## I'm a Physicist working on data science and complex networks.
 
 - 🌱 a
 - 👯 b
