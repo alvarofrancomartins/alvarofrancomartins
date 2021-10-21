@@ -6,4 +6,5 @@
 
 ## Latest publications
 <!-- PUBLICATION:START -->
+- [The dynamical structure of political corruption networks](https://alvarofrancomartins.com/publication/brazilian-corruption-network/)
 <!-- PUBLICATION:END -->
