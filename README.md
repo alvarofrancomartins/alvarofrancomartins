@@ -1,4 +1,6 @@
-# Hi there! I'm [Alvaro](https://alvarofrancomartins.com). 
+# Hi there! :wave:
+
+# I'm [Alvaro](https://alvarofrancomartins.com). 
 
 ## Latest blog posts
 <!-- BLOGPOST:START -->
