@@ -4,6 +4,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## Latest publication workflow
+## Latest publications
 <!-- PUBLICATION-LIST:START -->
 <!-- PUBLICATION-LIST:END -->
