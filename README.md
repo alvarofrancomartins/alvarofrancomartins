@@ -2,5 +2,8 @@
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The dynamical structure of political corruption networks](https://alvarofrancomartins.com/publication/brazilian-corruption-network/)
 <!-- BLOG-POST-LIST:END -->
+
+## Latest publication workflow
+<!-- PUBLICATION-LIST:START -->
+<!-- PUBLICATION-LIST:END -->
