@@ -6,11 +6,12 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
+  update-readme-with-publication:
     name: Update this repo's README with publications
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          comment_tag_name: "PUBLICATION"
           feed_list: "https://alvarofrancomartins.com/publication/index.xml"
