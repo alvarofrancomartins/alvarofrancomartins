@@ -2,5 +2,5 @@
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Spotify data analysis](https://alvarofrancomartins.com/post/spotify-data-analysis/)
+- [The dynamical structure of political corruption networks](https://alvarofrancomartins.com/publication/brazilian-corruption-network/)
 <!-- BLOG-POST-LIST:END -->
