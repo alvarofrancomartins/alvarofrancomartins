@@ -2,7 +2,6 @@
 
 ## Latest blog posts
 <!-- BLOGPOST:START -->
-- [Cocaine Smuggling Networks](https://alvarofrancomartins.com/post/cocaine_smuggling_networks/)
 - [Visualizando a CPI da COVID](https://alvarofrancomartins.com/post/cpi_covid/)
 <!-- BLOGPOST:END -->
 
