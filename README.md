@@ -2,6 +2,7 @@
 
 ## Latest blog posts
 <!-- BLOGPOST:START -->
+- [Unveiling the hidden patterns of corruption networks](https://alvarofrancomartins.com/post/corruption-networks/)
 - [Dismantling and modeling cocaine trafficking networks](https://alvarofrancomartins.com/post/cocaine_smuggling_networks/)
 - [Visualizando a CPI da COVID](https://alvarofrancomartins.com/post/cpi_covid/)
 <!-- BLOGPOST:END -->
