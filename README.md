@@ -9,5 +9,6 @@
 
 ## Latest publications
 <!-- PUBLICATION:START -->
+- [Universality of political corruption networks](https://alvarofrancomartins.com/publication/universality-of-political-corruption-networks/)
 - [The dynamical structure of political corruption networks](https://alvarofrancomartins.com/publication/brazilian-corruption-network/)
 <!-- PUBLICATION:END -->
