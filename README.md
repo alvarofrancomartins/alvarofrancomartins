@@ -14,10 +14,8 @@
 <!-- PUBLICATION:END -->
 
 
-<pre>
+<br> <br>
+<p align='center'>
+<a href="https://www.buymeacoffee.com/alvarofmartins" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</p>
 
-
-
-             <a href="https://www.buymeacoffee.com/alvarofmartins" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 180px !important;" ></a>
-
-</pre>
