@@ -10,7 +10,7 @@
 
 ## Latest publications
 <!-- PUBLICATION:START -->
-- [Deep learning criminal networks]([https://alvarofrancomartins.com/publication/machine-learning-partners-in-criminal-networks](https://alvarofrancomartins.com/publication/deep-learning-criminal-networks/)
+- [Deep learning criminal networks](https://alvarofrancomartins.com/publication/deep-learning-criminal-networks/)
 - [Machine learning partners in criminal networks](https://alvarofrancomartins.com/publication/machine-learning-partners-in-criminal-networks/)
 - [Universality of political corruption networks](https://alvarofrancomartins.com/publication/universality-of-political-corruption-networks/)
 - [The dynamical structure of political corruption networks](https://alvarofrancomartins.com/publication/brazilian-corruption-network/)
